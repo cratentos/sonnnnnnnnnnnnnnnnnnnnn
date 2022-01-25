@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x615f8f2c0a2121b5d63d9da4bb15bea35372074f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x615f8f2c0a2121b5d63d9da4bb15bea35372074f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TestnetMendelized",
+  "SYMBOL": "TESTBULBA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testnetmendelized",
+  "SHOW_BACKGROUND": true
+}
